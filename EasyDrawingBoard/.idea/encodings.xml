@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/drawing/MyCubicCurve.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/drawing/MyEllipse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/drawing/MyEraser.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/drawing/MyLine.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/drawing/MyPolyline.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/drawing/MyRectangle.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/resources/image/Icon.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/resources/image/Icon1.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/resources/image/chooser.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/resources/image/cubicCurve.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/resources/image/ellipse.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/resources/image/eraser.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/resources/image/line.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/resources/image/polyline.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/resources/image/rectangle.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/resources/image/right.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/resources/image/top.png" charset="GBK" />
+  </component>
+</project>
